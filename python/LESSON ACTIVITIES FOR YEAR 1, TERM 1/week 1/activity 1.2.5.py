@@ -1,0 +1,2 @@
+print ("\'what")
+print ("\"what")
